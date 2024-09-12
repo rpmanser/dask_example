@@ -1,0 +1,6 @@
+netcdf4
+xarray
+metpy
+herbie-data
+dask
+dask-jobqueue
